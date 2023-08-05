@@ -1,3 +1,3 @@
 ![logo](O2.png)
-# O2MQ
+# OMQ
 a mqtt broker implemented by rust
